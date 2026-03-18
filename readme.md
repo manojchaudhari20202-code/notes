@@ -9,3 +9,12 @@
 - [Assorted Patterns](assorted.md)
 - [Best Practices](bestpractices.md)
 - [Anti Patterns](antipatterns.md)
+
+
+
+<!-- 
+- Senior Developer Interview Topics
+- Please explain what each **TOPIC** **SUBTOPIC** in simple terms with real-world coding examples for each point. 
+- The examples should be in Java.
+- Keep it concise but informative.
+-->
