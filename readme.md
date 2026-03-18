@@ -1,5 +1,5 @@
 ### Java
-- [Java](java1.md)
+- [Language](java1.md)
 - [Data Structures](datastructures.md)
 - [Algorithms](algorithms.md)
 
