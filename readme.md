@@ -1,8 +1,8 @@
+### Java
 
-### [Principles](principles.md) 
 
-### Patterns
-- [Assorted](assorted.md)
-- [Arcitura](arcitura.md)
-
-### Best Practices
+### Patterns and Principles
+- [Principles](principles.md) 
+- [Assorted Patterns](assorted.md)
+- [Arcitura Patterns](arcitura.md)
+- [Best Practices][bestpractices.md]
