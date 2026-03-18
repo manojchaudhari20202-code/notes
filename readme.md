@@ -5,7 +5,7 @@
 
 ### Patterns and Principles
 - [Principles](principles.md)
-- [OO Patterns](assorted1.md)
+- [OO Patterns](patterns1.md)
 - [Assorted Patterns](assorted.md)
 - [Best Practices](bestpractices.md)
 - [Anti Patterns](antipatterns.md)
