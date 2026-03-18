@@ -245,3 +245,4 @@
     - **Diverse Testing:** Encourage testing by people with different roles (developers, QA, product managers, support staff) to get different perspectives.
     - **Inner Sourcing:** Adopting open-source practices within a company, allowing developers from different teams to contribute to shared internal projects.
 - **Not a Silver Bullet:** The law assumes a sufficiently large and skilled pool of reviewers. For very niche, complex, or domain-specific problems, only a few people in the world might be able to spot the "shallow" solution.
+---
