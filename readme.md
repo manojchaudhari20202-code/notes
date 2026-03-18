@@ -2,6 +2,6 @@
 ### [Principles](principles.md) 
 
 ### Patterns
-- [Java Patterns](javapatterns.md)
+- [Assorted](assorted.md)
 
 ### Best Practices
