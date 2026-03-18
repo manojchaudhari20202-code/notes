@@ -1,5 +1,7 @@
 ### Java
-
+- [Java](java1.md)
+- [Data Structures](datastructures.md)
+- [Algorithms](algorithms.md)
 
 ### Patterns and Principles
 - [Principles](principles.md) 
