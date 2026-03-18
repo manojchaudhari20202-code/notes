@@ -1,4 +1,7 @@
 
-# [Principles](principles.md) 
-# Patterns
-# Best Practices
+### [Principles](principles.md) 
+
+### Patterns
+- [Java Patterns](javapatterns.md)
+
+### Best Practices
