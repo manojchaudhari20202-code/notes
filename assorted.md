@@ -1245,7 +1245,7 @@
 - **Pros**: Open/Closed; gathers related operations; double dispatch.
 - **Cons**: Adding new elements requires changes to all visitors; may break encapsulation.
 ---
-https://github.com/iluwatar/java-design-patterns/tree/master/abstract-document
+- https://github.com/iluwatar/java-design-patterns/tree/master/abstract-document
 ---
 
 
