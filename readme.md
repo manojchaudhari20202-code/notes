@@ -4,8 +4,8 @@
 - [Algorithms](algorithms.md)
 
 ### Patterns and Principles
-- [Principles](principles.md) 
+- [Principles](principles.md)
+- [OO Patterns](assorted1.md)
 - [Assorted Patterns](assorted.md)
-- [Arcitura Patterns](arcitura.md)
 - [Best Practices](bestpractices.md)
 - [Anti Patterns](antipatterns.md)
