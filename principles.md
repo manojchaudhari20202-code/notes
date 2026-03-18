@@ -1,6 +1,9 @@
 ---
 ### Single Responsibility Principle (SRP)
 - **Core Principle:** A class should have only one reason to change. This means it should have only one job or responsibility.
+
+
+
 - **Defining "Responsibility":** A responsibility can be thought of as a reason for change. If you can imagine more than one actor or stakeholder wanting to change the behavior of a class for different reasons, then that class has multiple responsibilities.
 - **Classic Violation:** A `Report` class that can generate content *and* save to a file *and* format for PDF. It has three responsibilities: (1) business logic for report data, (2) persistence logic, and (3) presentation logic. A change to the file format, the PDF styling, or the data source would all require modifying this same class.
 - **Improved Maintainability:** By separating responsibilities into different classes (`ReportData`, `ReportSaver`, `PdfFormatter`), you make the code easier to understand, test, and maintain. Changes are isolated and have a lower risk of unintended side effects.
